@@ -1,34 +1,42 @@
-Body{
-    font-family: monospace;
+Body {
+  font-family: monospace;
 }
-button{
-    color: white;
-    padding: 15px 30px;
-    font-size: 16px;
-    border: none;
-    border-radius: 8px;
-    margin-right: 10px;
+button {
+  color: white;
+  padding: 15px 30px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  margin-right: 10px;
 }
-#green{
-    background: #4caf50;
+#green {
+  background: #4caf50;
 }
-#black{
-    background: #555555;
+#black {
+  background: #555555;
 }
-#blue{
-    background: #008cba;
+#blue {
+  background: #008cba;
 }
-h1{
-    color: #008cba;
+h1 {
+  color: #008cba;
 }
-h1 span{
-    font-size: 10px;
-    font-style: italic;
-    background: #e7e7e7;
-    color: black;
-    border-radius: 5px;
-    padding: 0 5px;
+h1 span {
+  font-size: 10px;
+  font-style: italic;
+  background: #e7e7e7;
+  color: black;
+  border-radius: 5px;
+  padding: 0 5px;
 }
-th{
-    background: #e7e7e7;
+th {
+  background: #e7e7e7;
+}
+strong {
+  background: #4caf50;
+  color: white;
+  padding: 0 5px;
+}
+.name strong {
+  background: #008cba;
 }
